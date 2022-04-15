@@ -1,6 +1,6 @@
 ### Hi there, I'm Iryna 👋
 
-- 📫 How to reach me: [arkhypchenko.iryna@gmail.com](arkhypchenko.iryna@gmail.com) or via [Linkedin](https://www.linkedin.com/in/iryna-a-91389814b/)
+- 📫 How to reach me via [Linkedin](https://www.linkedin.com/in/iryna-a-91389814b/)
 
 ### My stack and tools:
 
