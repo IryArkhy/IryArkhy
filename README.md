@@ -1,9 +1,6 @@
 ### Hi there, I'm Iryna 👋
 
-- 🔭 I’m currently working on several interesting projects. The one should bring value to my country's society.
 - 📫 How to reach me: [arkhypchenko.iryna@gmail.com](arkhypchenko.iryna@gmail.com) or via [Linkedin](https://www.linkedin.com/in/iryna-a-91389814b/)
-- 😄 Pronouns: /irɪnə/ ('Ir..' like in 'peek' and '..ina' like in 'kick');
-- ⚡ Fun fact: I have 2 LLM's from Ukrainian and Lithuanian law schools.
 
 ### My stack and tools:
 
