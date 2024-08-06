@@ -1,10 +1,10 @@
 
-<h4 align="center">
-    I am a Front-end Engineer with over 5 years of experience specializing in JavaScript, TypeScript, React.js, and Node.js. I have a strong background in designing, building, testing, and deploying web applications from the ground up. My passion for coding drives me to learn and implement the best practices in software development continuously. I'm proficient in various tools and technologies that enhance productivity and code quality. Let's connect and create something amazing together!
-</h4>
+<h5 align="justify">
+I am a Front-end Engineer with over 5 years of experience specializing in JavaScript, TypeScript, React.js, and Node.js. I have a strong background in designing, building, testing, and deploying web applications from the ground up. My passion for coding drives me to learn and implement the best practices in software development continuously. I'm proficient in various tools and technologies that enhance productivity and code quality. Let's connect and create something amazing together!
+</h5>
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IryArkhy&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IryArkhy&show_icons=true&hide_border=true&include_all_commits&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IryArkhy&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <hr/>
