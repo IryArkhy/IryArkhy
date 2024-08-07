@@ -4,7 +4,7 @@ I am a Front-end Engineer with over 5 years of experience specializing in JavaSc
 </h5>
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IryArkhy&show_icons=true&hide_border=true&show=reviews,prs_merged&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IryArkhy&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IryArkhy&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <hr/>
