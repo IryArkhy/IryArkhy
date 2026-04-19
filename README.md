@@ -99,12 +99,14 @@ const iryna: Developer = {
 
 <br/>
 
-## 🎯 Featured Projects
+## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
-  <a href="https://github.com/IryArkhy?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/Check%20out%20my%20repos-%E2%86%92-6E95F7?style=for-the-badge" alt="Repos" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IryArkhy/IryArkhy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IryArkhy/IryArkhy/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IryArkhy/IryArkhy/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
