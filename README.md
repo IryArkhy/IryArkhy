@@ -34,7 +34,7 @@ const iryna: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=IryArkhy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-C,-?" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=IryArkhy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B" width="100%" alt="GitHub Trophies" />
 </div>
 
 <br/>
