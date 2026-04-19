@@ -34,7 +34,7 @@ const iryna: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IryArkhy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=IryArkhy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -99,14 +99,12 @@ const iryna: Developer = {
 
 <br/>
 
-## 🐍 Watch the Snake Eat My Contributions
+## 🎯 Featured Projects
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IryArkhy/IryArkhy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IryArkhy/IryArkhy/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IryArkhy/IryArkhy/output/github-snake.svg" width="100%" />
-  </picture>
+  <a href="https://github.com/IryArkhy?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/badge/Check%20out%20my%20repos-%E2%86%92-6E95F7?style=for-the-badge" alt="Repos" />
+  </a>
 </div>
 
 <br/>
